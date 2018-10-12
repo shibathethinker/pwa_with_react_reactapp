@@ -1,0 +1,14 @@
+{
+  "main.css": "/pwa_with_react_reactapp/static/css/main.bd59e036.chunk.css",
+  "main.js": "/pwa_with_react_reactapp/static/js/main.ed55efa0.chunk.js",
+  "main.js.map": "/pwa_with_react_reactapp/static/js/main.ed55efa0.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/pwa_with_react_reactapp/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/pwa_with_react_reactapp/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/pwa_with_react_reactapp/static/js/runtime~main.f7bc0568.js",
+  "runtime~main.js.map": "/pwa_with_react_reactapp/static/js/runtime~main.f7bc0568.js.map",
+  "static/media/logo.svg": "/pwa_with_react_reactapp/static/media/logo.5d5d9eef.svg",
+  "static/css/main.bd59e036.chunk.css.map": "/pwa_with_react_reactapp/static/css/main.bd59e036.chunk.css.map",
+  "index.html": "/pwa_with_react_reactapp/index.html",
+  "precache-manifest.545ce2fa20448fa93ab95833fcc98d77.js": "/pwa_with_react_reactapp/precache-manifest.545ce2fa20448fa93ab95833fcc98d77.js",
+  "service-worker.js": "/pwa_with_react_reactapp/service-worker.js"
+}
